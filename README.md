@@ -20,7 +20,7 @@ Dự án này chứa các bài tập chuẩn bị cho kỳ thi vấn đáp cuố
 ### 1. Clone Project
 Mở terminal và chạy lệnh:
 ```bash
-git clone https://github.com/baoOyster/ttud_cuoi_ky
+git clone https://github.com/baoOyster/ttud_cuoi_ky.git
 cd ttud_cuoi_ky
 ```
 
