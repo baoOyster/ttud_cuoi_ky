@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Ex1_3 {
+public class Ex1_3 {
     static int n, k;
     static List<String> resultList = new ArrayList<>();
     static char[] currentStr;
